@@ -4,3 +4,4 @@ test*
 venv
 output
 build
+__pycache__
